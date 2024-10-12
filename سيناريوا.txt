@@ -1,0 +1,25 @@
+1-login on the websity
+2-will show the dachbaord to see every thing for the travile 
+3-search on the conutry
+4-search on the flight company
+5-will show the price to ticket
+6-will show the time avilebale for travil
+6-buy the ticket
+7-will book the place in flight
+8-will resive the ticket as qr code on Email and ticket will take in airport
+9-[option] to cancil the travil or change the travile
+10-will resive your money
+11-if want change the travile click the change
+12-will show the price new ticket and price your ticket
+13-if want cancil the travile click on travil
+14-resive your money on your phone
+15-will resive emali to تاكيد على وقت الرحلة بالساعة والتريخ والاسم والتجاه الرحلة
+16-will go to airport in time you are booked
+17-when arrive to airport scane qr code before ركوب الطائرة
+18-when scane qr code will resive massage you will replay on it yes I arrived or no I did not arrived
+19-if replay yes you arrive will resive done
+20-if no I did not arrived will resive the time filght after it
+21-when plane arrived to country scane the qr code in airport
+22-will recive massage to rate the flight company and send the feedback
+23-you can do update to your account in anytime 
+24-you must keep your account if you want travil againe
